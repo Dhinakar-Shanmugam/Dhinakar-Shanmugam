@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Dhinakar-Shanmugam</h1>
 <h3 align="center">III Year BE.CSE Student || Passionate Frontend Web Developer || Aspiring to become a Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinakar-shanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="dhinakar-shanmugam" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dhinakar-shanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="dhinakar-shanmugam" />
+</p>
 
 - 🌱 I’m currently learning **Fullstack web development**
 
@@ -10,15 +11,18 @@
 
 - 📫 How to reach me **dhinakarshanmugamofficial@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhinakar-shanmugam-15933a2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinakar-shanmugam-15933a2b8" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/dhinakarshanmugamofficial/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="dhinakar-shanmugam-15933a2b8" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/dhinakar-shanmugam-15933a2b8" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinakar-shanmugam-15933a2b8" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/dhinakarshanmugamofficial/" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="dhinakar-shanmugam-15933a2b8" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h3 align="center">Languages and Tools:</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -66,6 +70,10 @@
     </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakar-shanmugam&show_icons=true&locale=en" alt="dhinakar-shanmugam" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakar-shanmugam&show_icons=true&locale=en" alt="dhinakar-shanmugam" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakar-shanmugam&" alt="dhinakar-shanmugam" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakar-shanmugam&" alt="dhinakar-shanmugam" />
+</p>
