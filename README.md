@@ -48,7 +48,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhinakar-shanmugam&show_icons=true&locale=en&layout=compact" alt="dhinakar-shanmugam" /></p>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"alt="insomnia" width="40" height="40"/> </a><p align="left">
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" alt="insomnia" width="40" height="40"/> </a><p align="left">
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/> </a><p align="left">
 
