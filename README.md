@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhinakar-Shanmugam</h1>
-<h3 align="center">III Year BE.CSE Student || Passionate Frontend Web Developer || Aspiring to become a Fullstack Developer</h3>
+<h3 align="center">Final Year BE.CSE Student || Passionate Frontend Web Developer || Aspiring to become a Fullstack Developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dhinakar-shanmugam&label=Profile%20views&color=0e75b6&style=flat" alt="dhinakar-shanmugam" />
